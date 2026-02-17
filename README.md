@@ -2,6 +2,6 @@
 
 ## Project Report
 
-Click below to open:
+Click below to open the PDF:
 
 [Open Project Report](./report.pdf)
